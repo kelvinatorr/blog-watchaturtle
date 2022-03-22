@@ -1,3 +1,10 @@
 title: Watch A Turtle Blog
 theme: minima
 show_downloads: false
+
+minima:
+  skin: dark
+
+header_pages:
+  - pi.md
+  - about.md
