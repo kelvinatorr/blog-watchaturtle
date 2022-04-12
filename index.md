@@ -1,4 +1,6 @@
 ---
-title: First Watch a Turtle Video
+title: Eat, sleep, bask, repeat. Life of a red-eared slider
 ---
-Hello Pi
+[First Watch a Turtle Video](/posts/first-watch-a-turtle-video.md)
+
+[First Watch a Turtle Video](/posts/first-watch-a-turtle-video.md)

@@ -3,7 +3,9 @@ theme: minima
 show_downloads: false
 
 minima:
-  skin: dark
+  youtube: jekyll
+  youtube_channel: UCsz741u63L-kPTxQIegUJiA
+  youtube_channel_name: watchaturtle
 
 header_pages:
   - pi.md
