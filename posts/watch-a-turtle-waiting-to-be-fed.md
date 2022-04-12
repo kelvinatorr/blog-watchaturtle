@@ -2,9 +2,9 @@
 title: Watch a Turtle Waiting to be Fed
 ---
 
-![Pi Face Underwater](/assets/imgs/20180723_214422-01-compressed.jpeg)
-
 4 AUGUST 2018
+
+![Pi Face Underwater](/assets/imgs/20180723_214422-01-compressed.jpeg)
 
 Pi knows that when the sun rises and the house becomes brighter, it is feeding time!
 

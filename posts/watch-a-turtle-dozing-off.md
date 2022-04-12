@@ -2,9 +2,9 @@
 title: First Watch a Turtle Video
 ---
 
-![Pi Sleeping!](/assets/imgs/20180522_153927-01-compressed-1.jpeg)
-
 21 JULY 2018
+
+![Pi Sleeping!](/assets/imgs/20180522_153927-01-compressed-1.jpeg)
 
 The Pi Cam captured a pretty sleepy Pi the other day!
 

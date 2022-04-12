@@ -2,9 +2,9 @@
 title: First Watch a Turtle Video
 ---
 
-![Pi Face Close Up!](/assets/imgs/20180712_223124-01-compressed.jpeg)
-
 18 JULY 2018
+
+![Pi Face Close Up!](/assets/imgs/20180712_223124-01-compressed.jpeg)
 
 As a first milestone by posting here on Watch a Turtle, we are pleased to share with you one of the earliest videos of Pi recorded by the Pi Cam!
 

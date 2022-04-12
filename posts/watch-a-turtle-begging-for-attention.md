@@ -2,9 +2,9 @@
 title: Watch a Turtle Begging for Attention
 ---
 
-![Pi Face Over Water](/assets/imgs/20180705_223424-compressed.jpg)
-
 28 JULY 2018
+
+![Pi Face Over Water](/assets/imgs/20180705_223424-compressed.jpg)
 
 During the summer, Kelvin and I have to deal with a very active and ravenous Pi.
 
