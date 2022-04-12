@@ -10,3 +10,11 @@ minima:
 header_pages:
   - pi.md
   - about.md
+
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
+
+youtube: watchaturtle
+youtube_channel: UCsz741u63L-kPTxQIegUJiA
+youtube_channel_name: watchaturtle
