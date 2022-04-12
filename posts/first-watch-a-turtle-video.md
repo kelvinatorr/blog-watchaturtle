@@ -11,5 +11,3 @@ We chose to share this particular video because it captures the essence of how P
 A benefit of having a recording device is the ability to go back and review the videos. This is one of the reasons why we wanted to set up the Pi Cam, because we might get a chance to observe rare moments, such as a yawning turtle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhE91bUVDM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-End of Post.
