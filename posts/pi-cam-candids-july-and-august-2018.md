@@ -1,5 +1,5 @@
 ---
-title: Pi Cam Candids: July and August 2018
+title: "Pi Cam Candids: July and August 2018"
 ---
 
 18 AUGUST 2018
