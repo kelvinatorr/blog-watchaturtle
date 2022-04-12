@@ -4,6 +4,8 @@ title: First Watch a Turtle Video
 
 ![Pi Face Close Up!](/assets/imgs/20180712_223124-01-compressed.jpeg)
 
+18 JULY 2018
+
 As a first milestone by posting here on Watch a Turtle, we are pleased to share with you one of the earliest videos of Pi recorded by the Pi Cam!
 
 We chose to share this particular video because it captures the essence of how Pi typically spends her afternoons: relaxed on her basking platform. However, if you watch towards the end of this video, you will see Pi yawning! It turns out that turtles yawn just like we do. :)

@@ -4,6 +4,8 @@ title: First Watch a Turtle Video
 
 ![Pi Sleeping!](/assets/imgs/20180522_153927-01-compressed-1.jpeg)
 
+21 JULY 2018
+
 The Pi Cam captured a pretty sleepy Pi the other day!
 
 I stitched together several videos spanning about 40 minutes total, and sped it up to 20 times its normal speed. The result is a 2 minute speedy version. Thank goodness for the ability to speed things up and scan through video frames quickly on iMovie, because otherwise it would be uneventful for me to comb through hours of footage looking for something interesting to share.

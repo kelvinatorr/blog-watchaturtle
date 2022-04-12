@@ -4,6 +4,8 @@ title: Watch a Turtle Begging for Attention
 
 ![Pi Face Over Water](/assets/imgs/20180705_223424-compressed.jpg)
 
+28 JULY 2018
+
 During the summer, Kelvin and I have to deal with a very active and ravenous Pi.
 
 We built Pi's above-the-tank basking platform in the summer of 2017. Not only did Pi grew accustomed to using her new platform in less than a day, she has since then learned and refined the art of causing commotion on the platform in order to grab our attention. Her tricks include climbing up on the platform and landing her plastron (underbelly shell) audibly and repeatedly onto the surface, scratching the acrylic walls with her arms, running across the platform hastily, and sliding down the ramp of the platform and splashing into the water. We assume this is her way of telling us that she is hungry, or she is just begging for food.
