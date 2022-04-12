@@ -1,6 +1,7 @@
 ---
 title: Eat, sleep, bask, repeat. Life of a red-eared slider
 ---
+- [How a Red-Eared Slider Turtle Got Its Name](/posts/)
 - [Turtle Butt: July and August 2018](/posts/turtle-butt-july-and-august-2018.md)
 - [Hello Kitty Fortress Upgrade: Blanket](/posts/hello-kitty-fortress-upgrade-blanket.md)
 - [Pi Cam Candids: July and August 2018](/posts/pi-cam-candids-july-and-august-2018.md)
