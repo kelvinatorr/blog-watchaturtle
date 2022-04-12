@@ -1,6 +1,7 @@
 ---
 title: Eat, sleep, bask, repeat. Life of a red-eared slider
 ---
+- [Hello Kitty Fortress Upgrade: Blanket](/posts/hello-kitty-fortress-upgrade-blanket.md)
 - [Pi Cam Candids: July and August 2018](/posts/pi-cam-candids-july-and-august-2018.md)
 - [Hello Kitty Fortress of Solitude](/posts/hello-kitty-fortress-of-solitude.md)
 - [Watch a Turtle Waiting to be Fed](/posts/watch-a-turtle-waiting-to-be-fed.md)
