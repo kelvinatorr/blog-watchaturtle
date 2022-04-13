@@ -4,7 +4,7 @@ title: "Getting Situated on Basking Platform"
 
 20 OCTOBER 2018
 
-![Pi on Yoga Mat](/assets/imgs/20180729_124003-compressed.jpg)
+![Pi on Platform](/assets/imgs/20180729_124003-compressed.jpg)
 
 The Pi Cam caught some interesting moments where Pi tries to get settled on the platform so that she can bask.
 
