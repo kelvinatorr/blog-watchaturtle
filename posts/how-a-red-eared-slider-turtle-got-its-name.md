@@ -14,6 +14,6 @@ The Pi Cam caught a couple of instances where Pi got surprised and slid off of t
 
 Sometimes Pi decides to slide off of the platform slowly. The video below shows a rare example where Pi hangs out on the edge of the platform for a bit before she dives into the water. Maybe she is trying to take a drink of water, but did not want to get wet? There is a couple of inches gap between the platform and water, so perhaps she is trying to stretch herself as much as she can to reach the water.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iVoOa214UNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/iVoOa214UNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As you may realize by now, red-eared slider turtles got their common name partly by their ability to quickly slide off of basking areas and into the water, and of course, from the red stripe around their ears.
