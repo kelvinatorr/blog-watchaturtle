@@ -10,11 +10,11 @@ Earlier this month, I added a giant, velvety blanket to the area of the room whe
 
 After setting up the blanket, I brought Pi into the room and recorded her first encounter with the blanket. At first, she seemed to be weirded out by the sight of this unknown purple thing. :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Tor9PnaBk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/6Tor9PnaBk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 However, after spending several minutes in the room, Pi warmed up to the blanket and started exploring and crawling all over the blanket.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KPtaCXBF4cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/KPtaCXBF4cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The addition of the blanket was a success! Pi likes being bundled in between the folds of the blanket and still be surrounded by her favorite pillows and plushes.
 

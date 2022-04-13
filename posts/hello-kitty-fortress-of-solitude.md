@@ -16,11 +16,11 @@ Pi loves to climb all over the pillows and plushes, often rearranging the pile i
 
 ![Pi on Hello Kitty's Face](/assets/imgs/IMG_20180722_142453-commpressed.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4bIePBrGJgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/4bIePBrGJgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 After Pi decides she has had enough of exploring, she buries herself under Hello Kitty and falls asleep for hours.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7kKQ24JoLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/Z7kKQ24JoLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I suppose Pi enjoys the coziness and warmth under the pillows. Furthermore, the pillows function as a protective cave for her, and therefore she can sleep in darkness and feel safe (turtles love caves). Pi recognizes the pile of pillows, and she even knows which room to go into to find the pillows without our help! Because of all that, I like to call this area of the house Pi's Hello Kitty Fortress of Solitude. Once Pi is under Hello Kitty, she does not want to be disturbed!
 

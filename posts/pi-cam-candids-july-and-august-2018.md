@@ -14,16 +14,16 @@ Pi is far from being a boring pet turtle in my biased opinion! :) Below are some
 
 Turtles do yawn, and Pi shows how it's done in the first video below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2N_jOYH4NO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/2N_jOYH4NO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the second video, Pi climbs onto her platform so that she can bask. Sometimes she misses a step and slips on the ramp.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iJ6XFNv29n4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/iJ6XFNv29n4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The third video shows Pi curiously peeking over the platform. Kelvin is somewhat nearby, so Pi turns her head towards Kelvin's direction wondering what he is up to. This video is darker than the others since Pi's basking lamp had not turned on yet.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q2ZUicP6KYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/q2ZUicP6KYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the last video of this post, Pi is basking on her platform and staring off into space! I wonder what she is thinking? Perhaps she is bored...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seJlVVxLdEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/seJlVVxLdEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

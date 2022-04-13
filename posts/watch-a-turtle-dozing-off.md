@@ -12,4 +12,4 @@ I stitched together several videos spanning about 40 minutes total, and sped it 
 
 When I was reviewing the videos, I observed that Pi had actually been nodding off for more than 3 hours (10 AM to 1 PM). At the end of the video, Pi finally gave in and got some shut-eye.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KIlY-cl_WK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/KIlY-cl_WK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

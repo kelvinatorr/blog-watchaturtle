@@ -12,4 +12,4 @@ Depending on our schedules, Kelvin and I take turns feeding Pi throughout the we
 
 In the Pi Cam video below, Kelvin had left the house extra early to go to the gym, so the task to feed Pi that morning was designated to me. I took a day off from work and had the luxury to sleep in. Therefore, when the basking lamp turned on and Pi realized she had not been fed yet or seen anyone around the house in the past couple of hours, Pi knew something was odd! Poor Pi climbed onto her platform about a dozen times to check if anyone was going to feed her. No worries, I fed her by 9 AM. :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VlEaorbBlQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="740" height="416" src="https://www.youtube.com/embed/VlEaorbBlQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
