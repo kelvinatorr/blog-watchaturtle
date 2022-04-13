@@ -1,6 +1,7 @@
 ---
 title: Eat, sleep, bask, repeat. Life of a red-eared slider
 ---
+- [Getting Situated on Basking Platform](/posts/getting-situated-on-basking-platform.md)
 - [Review: Wardley Turtle Treat](/posts/review-wardley-turtle-treat.md)
 - [How a Red-Eared Slider Turtle Got Its Name](/posts/how-a-red-eared-slider-turtle-got-its-name.md)
 - [Turtle Butt: July and August 2018](/posts/turtle-butt-july-and-august-2018.md)
